@@ -15,8 +15,8 @@ body {
 /*formatação das cartas*/
 
 .memory-game {
-    height: 640px;
-    width: 800px;
+    height: 650px;
+    width: 650px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
